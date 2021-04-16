@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Agus</h1>
-<h3 align="center">A curious and restless frontend developer from Buenos Aires, Argentina</h3>
+<h1>Hi 👋, I'm Agus</h1>
+<h3>A curious and restless frontend developer from Buenos Aires, Argentina</h3>
 
 - 🔭 I’m currently working on **Lobotrix**
 
