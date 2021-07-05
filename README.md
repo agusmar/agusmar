@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Agus</h1>
 <h3>A curious and restless frontend developer from Buenos Aires, Argentina</h3>
 
-- 🔭 I’m currently working for **Endava**(https://endava.com/)
+- 🔭 I’m currently working for **Endava**
 
 - 🌱 I’m currently learning **React.Js**
 
