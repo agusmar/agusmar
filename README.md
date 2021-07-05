@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Agus</h1>
 <h3>A curious and restless frontend developer from Buenos Aires, Argentina</h3>
 
-- 🔭 I’m currently working on **Lobotrix**
+- 🔭 I’m currently working for **Endava**(https://endava.com/)
 
 - 🌱 I’m currently learning **React.Js**
 
-- 👯 I’m collaborating on [FrontendCafé](https://frontend.cafe/)
+- 👯 I’m collaborating at [FrontendCafé](https://frontend.cafe/)
 
 - 📫 How to reach me **agustinam@gmail.com**
 
